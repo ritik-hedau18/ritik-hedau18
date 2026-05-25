@@ -5,12 +5,6 @@ Hi 👋, I'm Ritik<br>
 🔭 **What I'm Working On**<br>
 Designing and developing scalable backend systems using Java, Spring Boot, and REST APIs — with a focus on clean architecture, performance, and reliability. Currently building AI-integrated backends with Spring AI and real-time distributed systems using Apache Kafka.<br><br>
 
-🤝 **Open to Collaborate On**<br>
-- Backend-focused projects and microservices-based architectures
-- AI-integrated backend systems using Spring AI / LLM APIs
-- Performance optimization and system design discussions
-- Open-source Java / Spring Boot projects<br><br>
-
 🌱 **Currently Leveling Up In**<br>
 - Microservices design patterns (Saga, CQRS, Event Sourcing)
 - Spring Security — OAuth2, JWT, RBAC
@@ -19,15 +13,6 @@ Designing and developing scalable backend systems using Java, Spring Boot, and R
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 SRIJAN — AI-Powered Spring Boot Code Generator
-> `Spring Boot 3` · `Spring AI` · `Groq LLaMA 70B` · `React` · `Monaco Editor` · `JWT` · `PostgreSQL` · `Docker`
-
-- Built an AI-powered code generator where users describe a Spring Boot application in natural language and receive fully structured, downloadable Java project files — integrating Groq's LLaMA via Spring AI's OpenAI-compatible adapter.
-- Implemented multi-turn conversation memory using Spring AI's `MessageChatMemoryAdvisor` with session-scoped context stored in PostgreSQL, enabling follow-up prompts like *"now add JWT to this"* to work in context.
-- Built a React frontend with Monaco Editor for real-time code preview, JWT-secured auth flow, and one-click project ZIP download.
-
----
 
 ### 🔍 TRACE — Transaction Risk & Anomaly Classification Engine
 > `Java 17` · `Spring Boot 3` · `Spring Cloud` · `Apache Kafka` · `Redis` · `PostgreSQL` · `MongoDB` · `Docker` · `JWT` · `Spring Security 6`
@@ -87,9 +72,3 @@ Designing and developing scalable backend systems using Java, Spring Boot, and R
 
 ---
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-hedau)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=white)](https://ritikhedau.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ritikhedau18@gmail.com)
-
-[![](https://visitcount.itsvg.in/api?id=ritik-hedau18&icon=0&color=0)](https://visitcount.itsvg.in)
