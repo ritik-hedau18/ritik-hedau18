@@ -3,7 +3,7 @@ Hi 👋, I'm Ritik<br>
 🚀 Java Full Stack Developer with 2+ years of experience building and shipping production-grade web applications — from Spring Boot microservices and event-driven backends to responsive React frontends.<br><br>
 
 🔭 **What I'm Working On**<br>
-Designing and developing scalable backend systems using Java, Spring Boot, and REST APIs — with a focus on clean architecture, performance, and reliability. Currently building AI-integrated backends with Spring AI and real-time distributed systems using Apache Kafka.<br><br>
+Developing scalable backend microservices and modern frontend applications using Java, Spring Boot, React, and REST APIs — with a focus on clean architecture, performance, and reliability. Currently building AI-integrated backends with Spring AI and real-time distributed systems using Apache Kafka.<br><br>
 
 🌱 **Currently Leveling Up In**<br>
 - Microservices design patterns (Saga, CQRS, Event Sourcing)
@@ -14,12 +14,19 @@ Designing and developing scalable backend systems using Java, Spring Boot, and R
 
 ## 🚀 Featured Projects
 
+### 🧠 NEXUS — AI-Powered Workspace Intelligence Platform
+> `Java 17` · `Spring Boot 3` · `Spring AI` · `Groq LLaMA 3.3` · `Qdrant Vector DB` · `PostgreSQL` · `React 19` · `TypeScript` · `Docker`
+
+- Built a full-stack Retrieval-Augmented Generation (RAG) platform allowing users to perform semantic search and chat directly with uploaded documents (PDF, DOCX).
+- Implemented Server-Sent Events (SSE) streaming with Spring WebFlux to deliver real-time, token-by-token streaming AI chat responses.
+- Configured user workspaces with strict security isolation, applying Spring Security 6 with BCrypt and stateless JWT access/refresh tokens.
+
 ### 🔍 TRACE — Transaction Risk & Anomaly Classification Engine
 > `Java 17` · `Spring Boot 3` · `Spring Cloud` · `Apache Kafka` · `Redis` · `PostgreSQL` · `MongoDB` · `Docker` · `JWT` · `Spring Security 6`
 
-- Built a real-time fraud detection system across 7 microservices using Spring Cloud, Eureka service discovery, and Apache Kafka for asynchronous transaction event streaming.
-- Designed a 5-rule weighted scoring engine classifying transactions as **LOW**, **MEDIUM**, or **HIGH** risk with Redis-powered velocity checks to detect burst fraud patterns.
-- Orchestrated the full stack using Kubernetes — managing Deployments, Services, and ConfigMaps — secured with JWT + Spring Security 6 and containerized using Docker with PostgreSQL and MongoDB.
+- Developed a real-time transaction risk scoring system across 7 microservices using Eureka service discovery and Spring Cloud Gateway.
+- Built a pluggable 5-rule evaluation engine (Strategy pattern) evaluating anomaly rules to auto-classify transactions as APPROVED, FLAGGED, or BLOCKED in real-time.
+- Designed an asynchronous event-driven pipeline using Apache Kafka to ingest transactions, trigger instant email alerting, and pipe logs to MongoDB.
 
 ---
 
@@ -35,6 +42,7 @@ Designing and developing scalable backend systems using Java, Spring Boot, and R
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring-security&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
@@ -47,6 +55,7 @@ Designing and developing scalable backend systems using Java, Spring Boot, and R
 **Databases**<br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-red?style=plastic)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
 **Cloud & DevOps**<br>
@@ -71,4 +80,3 @@ Designing and developing scalable backend systems using Java, Spring Boot, and R
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
