@@ -4,12 +4,7 @@
 ---
 
 ### 💻 About Me
-I'm a **Java Full Stack Developer** with **3+ years of experience** at **Deqode Solutions** (Pune, India), building and shipping end-to-end web applications. I bridge server-side stability with client-side user experience, owning features from database schema design and Spring Boot microservices to polished React frontends.
-
-#### 📊 Performance Metrics Delivered:
-*   🚀 **30% reduction** in API response latency across core service flows.
-*   ⚡ **25% reduction** in event processing delays via Kafka event streams.
-*   🎨 **40% improvement** in page load/render metrics through code-splitting and query optimizations.
+I'm a **Java Full Stack Developer**, building and shipping end-to-end web applications. I bridge server-side stability with client-side user experience, owning features from database schema design and Spring Boot microservices to polished React frontends.
 
 ---
 
