@@ -114,6 +114,6 @@ I'm a **Java Full Stack Developer**, building and shipping end-to-end web applic
 ### 📬 Let's Connect
 
 *   💼 **LinkedIn:** [/in/ritik-hedau](https://www.linkedin.com/in/ritik-hedau/)
-*   📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/13466HLBk5Fp_itP2wnnt0nwjD-TY48lT/view?usp=drivesdk)
+*   📄 **Resume:** [Google Drive Link](https://drive.google.com/file/d/1aLQ3F-Im4R1WNTTxlft1qtwAX_eZVOr5/view?usp=drivesdk)
 *   📧 **Email:** [ritikhedau9@gmail.com](mailto:ritikhedau9@gmail.com)
 *   📞 **Phone:** [+91 82695 19161](tel:+918269519161)
